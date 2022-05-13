@@ -3,7 +3,7 @@ TEAM_NAME                   =       "ice ice"
 
     
 # These are algorithm parameters. You need to change this
-DELTA                       =      0.2              #   How much should the epsilon shift by in every game
+DELTA                       =      -0.2              #   How much should the epsilon shift by in every game
 LR                          =      0.001            #   This is the learning rate. High learning rate means faster learning"                     
 GAMMA                       =      0.9             #   gamma = discount factor. High gamma value means focus on future rewards "
 STARTING_EPSILON            =      1
